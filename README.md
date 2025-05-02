@@ -1,7 +1,7 @@
 # Required enviroment
-Tensorflow 1.13.0
-Or
-Pytorch
+    Tensorflow 1.13.0
+    Or
+    Pytorch
 
 
 # A-computation-efficient-CNN-system-for-high-quality-brain-tumor-segmentation
