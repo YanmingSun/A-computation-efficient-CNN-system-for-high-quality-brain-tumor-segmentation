@@ -1,5 +1,5 @@
 # Required enviroment
-    Tensorflow 1.13.0
+    Tensorflow 1.13.1
     Or
     Pytorch
 
